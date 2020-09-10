@@ -1,0 +1,133 @@
+{
+  "main": {
+    "name": "Sana Eram",
+    "occupation": "ReactJS and Django Developer",
+    "description": "Full Stack Developer by Day, Poet by Night",
+    "image": "sana.jpg",
+    "bio": "My name is Sana, I'm a Full Stack Developer and pursing my Masters alongside. Currently I'm working as a UI Developer Intern at Ismile Technologies",
+    "contactmessage": "Get in touch with me if you have any ideas and let's coolaborate",
+    "email": "sanaeram5@gmail.com",
+    "phone": "",
+    "address": {
+      "street": "123 Fake Street",
+      "city": "Delhi",
+      "state": "India",
+      "zip": "831001"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sana.eram15",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "www.linkedin.com/in/sana-eram-81b49411b",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/sanaeram5/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/sanaeram5",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "MY SKILL SETS",
+    "education": [
+      {
+        "school": "Jamia Millia Islamia",
+        "degree": "Masters in Computer Science",
+        "graduated": "July 2022",
+        "description": "Pursuing"
+      }
+    ],
+    "work": [
+      {
+        "company": "Ismile Technologies",
+        "title": "UI Developer Intern",
+        "years": "August 2020 - November 2020",
+        "description": "Working on ReactJS and React Native"
+      },
+      {
+        "company": "SMJ Electrical Private Ltd.",
+        "title": "Freelance Web Developer",
+        "years": "",
+        "description": "Building company's website"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "65%"
+      },
+      {
+        "name": "Figma & Canva",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Django",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "QBlogging",
+        "category": "Collaboration- HackJNU",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://github.com/aryabhatta22/Qblogging"
+      },
+      {
+        "title": "Weather App",
+        "category": "Django-Python Stack",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://github.com/sanaeram5/weather-django"
+      },
+      {
+        "title": "Space Invaders",
+        "category": "Pygame",
+        "image": "facebook-clone.png",
+        "url": "https://github.com/sanaeram5/space_invaders"
+      },
+      {
+        "title": "Movie Search App",
+        "category": "Python's Tkinter",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://github.com/sanaeram5/movie_search-_app"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "Sana Eram is one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
